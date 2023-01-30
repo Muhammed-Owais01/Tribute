@@ -1,0 +1,81 @@
+body {
+  /* setting the font size of all elements in the body to 1.2rem */
+  font-size: 1.2rem;
+  color: #333;
+  font-family: 'Segoe UI', sans-serif;
+}
+main {
+  /* setting background color of all elements in the main body */
+  background-color: #eee;
+  /* adding space to the bottom of the page */
+  padding-bottom: 3px;
+  margin-bottom: 31px;
+}
+header {
+  /* aligning the text in header element to center */
+  text-align: center;
+}
+#title {
+  font-size: 4rem;
+  /* setting space between title and topline */
+  margin-top: 31px;
+  padding-top: 55px;
+}
+.topline {
+  font-size: 1.3rem;
+  padding-bottom: 12px;
+  margin-bottom: 0px;
+}
+#img-div {
+  padding-top: 50px;
+  padding-bottom: 7px;
+}
+#image {
+  display: block;
+  max-width: 100%;
+  width: 47vw;
+  height:auto;
+  margin: 0 auto;
+}
+figure {
+  background-color: #ffffff;
+  margin: 0 15px;
+}
+#img-caption {
+  width: 100%;
+  text-align: center;
+  margin: 16px 0;
+}
+.lifestory {
+  text-align: center;
+  width: 100%;
+  margin: 45px 0 30px 0;
+}
+ul {
+  margin: 0 auto 40px auto ;
+  max-width: 625px;
+}
+section li {
+  padding: 10px 0;
+}
+blockquote {
+  margin: 0 auto 0 auto;
+  max-width: 570px;
+}
+blockquote p {
+  font-style: italic;
+  font-size: 1.03rem;
+  max-width: 667px;
+  text-align: left;
+}
+cite {
+  font-style: italic;
+  font-size: 1.05rem;
+}
+footer h3 {
+  text-align: center;
+  margin: 42px 0;
+}
+#tribute-link {
+  color: #477CA7;
+}
